@@ -1,2 +1,2 @@
 # oumanatsumi.github.io
-黄一骏的个人主页
+个人主页
